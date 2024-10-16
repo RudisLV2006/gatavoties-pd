@@ -1,0 +1,14 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-top: 20px;
+    border: 5px solid aqua;
+    box-sizing: border-box;
+}
+.color{
+    background-color: blue;
+}
+.hidden{
+    display: none;
+}
